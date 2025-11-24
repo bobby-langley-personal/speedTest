@@ -1,0 +1,240 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI=".metadata%2F.lock">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGl
+ODJ6+SfaPg==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.log">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>jQTctTou3w7D7xbmo1+ZjPb8Y1PlDWy+IWdkMWp1VMJbbKZyoG3ub8GxG9um1rL+w3AQ+hy0h5OA
+d5wpyzNBZA==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.cdt.core%2F.log">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>R1zUens7hqG0GDApxdOiro/ZX+JhU6cMn0XGzf+VptLID/tiFZoXeHPYnVP5sLoJ7CrT2m0IzvGz
+4JzctZcHIQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.cdt.make.core%2Fspecs.c">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>vmiIOMqGhuXJBom/KrWFzvETfJmbSMcLkvZ6XDTcFWl7XRHJgu1tcb4eHn97TgcziEqpfD96M5qO
+0DV3z3S+CQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.cdt.make.core%2Fspecs.cpp">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>vmiIOMqGhuXJBom/KrWFzvETfJmbSMcLkvZ6XDTcFWl7XRHJgu1tcb4eHn97TgcziEqpfD96M5qO
+0DV3z3S+CQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.resources%2F.root%2F.indexes%2Fhistory.version">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>+rhIybZXqFPuN8Ccv90UnQs4B7GR3em2I8zZUoHdGHBbSMibFQOQOEW7pXU5RTUf5rRUhSdg9zUp
+zwHKj2ncyg==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.resources%2F.root%2F.indexes%2Fproperties.index">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>1RGbSD5Ipl5qDA8UjPDoDria4vfdnajQ6bf+NbPZxnowjsRZfACJaDPRQnpDqxbny+E/ll9TYOSx
+VvnynKlpMg==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.resources%2F.root%2F.indexes%2Fproperties.version">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>e1S2aDbB+90T0kQdnhQ03GLKZ3+2j1/makZLqt7NvQBXb41rWsO8yAhEt9ULHMZgNES758/Pj8Cq
+HuPGNtnjOQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.resources%2F.root%2F1.tree">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>ayXKC2J/w+FP23agiivpt4v5B0xjJndudQNkJXuSeS9k5TOr/cwmtNWlt+zDeEZV29pM/YGAHJTs
+67YxeZyblQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.resources%2F.safetable%2Forg.eclipse.core.resources">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>BI5JT4qUODjg5/31iTtVJcgVj+qB7heSRiYBe6TBLamWNzF26FPpDBhgphg5tlXZS8zdaXv5Lf6V
+V5lPAShPzA==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.cdt.debug.core.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>WkHFMk7dLYphQLMiGs8DhrrhxkdR3/bp2zsZSwQJgoQCpCduNu6z+jV90kXqES3YoHzCMpxys0BB
+uMCWLOzVBg==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.cdt.ui.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>vOrRj9lTN3x0iZkoMDL++Jd5OBRVJtWs4w4jbpfTUR7MocShl/Vo6+77a8xkhwiJVIrCulMed4JZ
+FT71KYLpdQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.core.resources.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>GHGo8RA0Qk/PO1nR0GVOUS4+PrVjqJ+jQNmLESIBxk0jsgfOc0EKxNHbYR1QfWFF44FiPek+792Y
+2rlVSIePBA==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.debug.core.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>i7tRzcvxR//Yeg9RlJpsHgFRwOGLZKfIAnszBMAA35Upb7ks1MPPWK7xASjkIY0cTatAWfstruK2
+Z68K/zd7Zw==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.debug.ui.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>VEIcOPly8W89G8TtJqSq1lzEBxoQzyTtL/A9FavVIUXArw+PI18wxmTP856YPVjl+zwEMr7/BNFu
+kv8mjNnalw==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.team.ui.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>PPy9aHbi+tFuvrjmMLz6VEni9EvSDwo+pSLq1t4cIv1ee1tfDcUL5CqEHmicN843nwe15cDkmRyU
+LLf72a3CIQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.ui.ide.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>pnxMqgK+6Mctf4iLqylqkO/UM3dJXYJALtEmvAGQczui821J+k9pBPw2tbHd5iFdLmBk2iztjpdF
+nJ7Ymh2ilA==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.ui.workbench.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>mQxRRbRXYL1bV00kMsZOs058Jmx2sCl7zz9OoUe7vTbsQdm/REYOzOpWmzDEQYXrqQJrpZMs3p62
+OQMkWaIHBw==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.eclipse.wst.jsdt.ui.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>cWfNOHgulGEZlys9b75TUjJwk0KJwQBB08AqBWix9sVFFo3S0O055On6CSl7aNsbi87MHVqehoa5
+/Cqj2ysKTQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.core.runtime%2F.settings%2Forg.tizen.common.connection.prefs">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>rrxZuKZq3mCc7PqwwZ9kf3iIMdVcu6bJwNKciyVTSFTBVHrTSiCQs9OHeRKipOWUTIfFYTe32rqN
+Gs+yqhRNDw==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.e4.workbench%2Fworkbench.xmi">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>dJWqqnn86kGvj01OrAlAsZIA23Cxg1KVOsoYTuhXE1wTQ+oX8dn5diDtzm/OLnc5QleJ5Ryp4mAE
+sN3MZKCOZw==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.ui.ide%2Fdialog_settings.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>UOJhQpmcBhCSJ9Ha+V0JNRDU4nGDZf329Zwo/HVzr0Gi/6CVVGw3JaQ2TJutXnlNzT3MBKPP2V27
+pVtCFIa/JQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.ui.workbench%2Fdialog_settings.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>pItxyRJpw0eY9oiHDNlUCUG6VKfDvSCIoJHJjgFsECJqhPR+6Sdpe1t9A9IGsFNrlwHHGMLljwGy
+XiRR6Qw3kQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.ui.workbench%2Fworkingsets.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>yYJ45/Il82tr3h3su6lOnoluenHAQTUXtAgYTUtQGdSR+nUUioeYfitJLeAIsreL6rfl7TiWET28
+0tOEYzG6sA==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.wst.jsdt.core%2FvariablesAndContainers.dat">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>u4Qo0LZHZ/4wAuujPgIc2K6HWxaE7e6eNzFmlQiCeYQBzdy71hsEIk40wooXyqodgbvfFExHoMoD
+I53Eb2VhAw==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.wst.jsdt.ui%2FOpenTypeHistory.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>YEwvaAO7dHBE12v/u6TYo2aQxaX5yU5RTw4E3sywepf4CnF0YxUl3IrQuJ8TNX8KEREUkagKUO6S
+NVbdcSo4Uw==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.eclipse.wst.jsdt.ui%2FQualifiedTypeNameHistory.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>vPVmGsz2/j5FjxmzT819PIb1yrxX5hgqVGtUGWnWlSE9Y/n1V1/6aDFrdsT2fxbTxaa4kyduOC3w
+v/b5cYvdEQ==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2F.plugins%2Forg.tizen.common.sign%2Fmigrated">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGl
+ODJ6+SfaPg==</DigestValue>
+</Reference>
+<Reference URI=".metadata%2Fversion.ini">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>23Pp0/z8yA6qmHqimkE2tqvvWxjsWa8pUVW1VJlXtIMSpOOWldATBHi0BkNSYrQrZBSjJE9VFoub
+cvqAkrwdxg==</DigestValue>
+</Reference>
+<Reference URI="SpeedTest2.zip">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>rRxKwWlZhSmIZygOLhPTVyS+MdFaGKDn1glwJUsXD4ZikhBmccUbSQ0Xn/wdeEBQVzMQyYSa0KVz
+slESmeb7Yg==</DigestValue>
+</Reference>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>w+m+HY5hbdUnDXDlXCEkIdYf6cRCuvMpeOhHGQntrEK3pVCoqyXljX9Z9ElBlraL56+K6VKMHYnu
+cjNAomHegQ==</DigestValue>
+</Reference>
+<Reference URI="css%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>q+GcTxV5qgOUAIY9FT3+p666YT+uLUtQ/R0uWQpFhDIFwK1HtgttkjpUfrtSgWQ0QN6ok2mleREl
+vmpb5yX/5w==</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>BTGBG483ma/3HgWnreWF2xbdzr4F0gTRWjwxoSV+7kKBWt4UJTuv5WE4DhKdU4in2kwn/55O/qPD
+bNc/wgCuGg==</DigestValue>
+</Reference>
+<Reference URI="images%2Ftizen_32.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>7f1YiHBQcYjx42nqKzb4/Wz8pc8TtcA+Qj5X50iM8bfGp4Dm9VHa0pNhEIYXFYjH+WDhKPIoFYNG
+FD4iefxLsg==</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>JBXl0WmAzrdbSgKc3ZmuOhXOl2YPbOwZY9/a26HINxELAfeaHqb/1yfjGDMOzWDamw4QvuMJrBXI
+2flEZIbuQA==</DigestValue>
+</Reference>
+<Reference URI="js%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>NRq74AGhCVcqZCmu3BwkIFCc5FAX2ZWpEIKXKLUe1OL9g2ByGlW/lnCTAUD5rNE9Kp7+sz/YTZHd
+Iyu7EIHf9g==</DigestValue>
+</Reference>
+<Reference URI="pkginfo.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>+40mIU7W+u4oXjpDYdbLIuws1ZVGyiWK5kjHhDRkT783iPoj4jpM/IE32I2t7vZkmjNEyZ4t0y0w
+C6j0Cf8qQg==</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>aXbSAVgmAz0GsBUeZ1UmNDRrxkWhDUVGb45dZcNRq429wX3X+x6kaXT3NdNDTSNVTU+ypkysPMGv
+QY10fG1EWQ==</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+GUn5mk6MgvVKqd92loEjYLuXGhwIcjcHfXhdFwvJ76K2JGZpoaQNyCK17y/MNA54h1BfUVxPk+yD
+1qydKfuwjhy8hYCkMETjfLqV4vDN9iNKAdRAW0dxNPWD6gmcFxvPAjMI91078GvJ/lhP0HS3PrBs
+DAUVVV95T+5d5MBi6rA=
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIClTCCAX2gAwIBAgIGAYm4kv2EMA0GCSqGSIb3DQEBDQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
+c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
+ZWxvcGVycyBDQTAeFw0yMzA4MDIyMzI2MjhaFw0yNzAxMDEwMDAwMDBaMBExDzANBgNVBAMMBmF1
+dGhvcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA30pRxDFTEOfuU8Pc/HNc5JG7lOFosglS
+ZBrdf1ZaKgFIexNHaMQes92kCtLiPF+gYmOid1H/oaSWdxgXRrYO0F4GFO/W59I/FjuePwYP9Wsh
+V8s+xjqLGfunvwBYgOOztJB6vdVLKk9Og/N0jgaJD9G8Rh5Pzkcp/mk2Bxn96ncCAwEAAaMyMDAw
+DAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwDQYJKoZIhvcN
+AQENBQADggEBAG5HZbds8gLI98OqBsD1nuGQXV6VlLBSq8RvWb+AbOMEsJcOfPtO3tO9oYmNLj8b
+4hQyF51PnIjSnH/vRTu/ffaa3xP0Zs9N1dOTp/utqFLT0jMAyFo0jiEfL/s3QDA7IrrZ8KL4qA/B
+b1uFoP7n5NqvnOmG5WS/u5+Nopi0+uwZ/1U955cFvomZgCakMt3XX/Cus4iA3vi8miyYlc6ZN+Ue
+pLJ6FzkDNx3TUCVEADOf6pKcdyNwqy/6fB3Mt9PaUT64T0tLdMpzMCjufJY/oS5jHWkYh9Yooe3s
+5Y5NdkaW19uJnSHExeZ229+8wm4EXwaHL/RzVDSJ6FCvBQfBudQ=
+</X509Certificate>
+<X509Certificate>
+MIIDOTCCAiGgAwIBAgIBATANBgkqhkiG9w0BAQUFADBYMRowGAYDVQQKDBFUaXplbiBBc3NvY2lh
+dGlvbjEaMBgGA1UECwwRVGl6ZW4gQXNzb2NpYXRpb24xHjAcBgNVBAMMFVRpemVuIERldmVsb3Bl
+cnMgUm9vdDAeFw0xMjAxMDEwMDAwMDBaFw0yNzAxMDEwMDAwMDBaMFYxGjAYBgNVBAoMEVRpemVu
+IEFzc29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4g
+RGV2ZWxvcGVycyBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANVGhRGmMIUyBA7o
+PCz8Sxut6z6HNkF4oDIuzuKaMzRYPeWodwe9O0gmqAkToQHfwg2giRhE5GoPld0fq+OYMMwSasCu
+g8dwODx1eDeSYVuOLWRxpAmbTXOsSFi6VoWeyaPEm18JBHvZBsU5YQtgZ6Kp7MqzvQg3pXOxtajj
+vyHxiatJl+xXrHgcXC1wgyG3buty7u/Fi2mvKXJ0PRJcCjjK81dqe/Vr20sRUCrbk02zbm5ggFt/
+jIEhV8wbFRQpliobc7J4dSTKhFfrqGM8rdd54LYhD7gSI1CFSe16pUXfcVR7FhJztRaiGLnCrwBE
+dyTZ248+D4L/qR/D0axb3jcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOC
+AQEAnOXXQ/1O/QTDHyrmQDtFziqPY3xWlJBqJtEqXiT7Y+Ljpe66e+Ee/OjQMlZe8gu21/8cKklH
+95RxjopMWCVedXDUbWdvS2+CdyvVW/quT2E0tjqIzXDekUTYwwhlPWlGxvfj3VsxqSFq3p8Brl04
+1Gx5RKAGyKVsMfTLhbbwSWwApuBUxYfcNpKwLWGPXkysu+HctY03OKv4/xKBnVWiN8ex/Sgesi0M
++OBAOMdZMPK32uJBTeKFx1xZgTLIhk45V0hPOomPjZloiv0LSS11eyd451ufjW0iHRE7WlpR6EvI
+W6TFyZgMpQq+kg4hWl2SBTf3s2VI8Ygz7gj8TMlClg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>
